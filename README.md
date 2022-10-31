@@ -45,7 +45,7 @@ In order to see the 5 best locations for our offices I plotted the maps below. A
 
 
 #### Second Office
-![](images/graph1/../s5.jpeg)
+![](images/graph1/../s7.jpeg)
 
 
 
@@ -64,7 +64,7 @@ In order to see the 5 best locations for our offices I plotted the maps below. A
 #### Fifth Office
 
 
-![](images/graph1/../s9.jpeg)
+![](images/graph1/../s5.jpeg)
 
 
 

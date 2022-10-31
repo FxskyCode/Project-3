@@ -14,6 +14,7 @@ import folium
 from folium import Choropleth, Circle, Marker, Icon, Map
 from folium.plugins import HeatMap, MarkerCluster
 
+
 def extract_company(filter_, c):
     projection = {"_id":0, "name":1, "category_code":1, "tag_list":1, "total_money_raised":1, "offices.city":1, "offices.state_code": 1, "offices.country_code":1,"offices.latitude": 1, "offices.longitude": 1}
     list_ = list(c.find(filter_, projection))
