@@ -5,7 +5,7 @@
 
 
 ### Goals
-The Goal for this project is to analyze startup database through mongoDB and python in order to find the best location for a new office via maps visualization graphics.
+The Goal for this project is to analyze startup database through mongoDB and Forsquare API in order to find the best location for a new office via maps visualization graphics.
 
 
 
